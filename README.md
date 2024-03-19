@@ -1,4 +1,6 @@
-<img src="default1.png" width="400" alt="SNGDNN Logo">
+<p align="center"><a href="https://sliceofbanana.github.io/Genesis-Portfolio"><img width="80%" alt="Hello, I'm Genesis. I do web/software developement and Graphics Design!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 <h1 align="left">Hi 👋, I'm Genesis Esdrilon Jr</h1>
 <h3 align="left">Passionate about web development and software development</h3>
