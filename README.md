@@ -1,5 +1,5 @@
 <div align="center">
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&width=435&lines=Hi!+I'm+Genesis+Esdrilon+Jr.)](https://git.io/typing-svg)
+###[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&width=435&lines=Hi!+I'm+Genesis+Esdrilon+Jr.)](https://git.io/typing-svg)
 
  <a href="https://www.linkedin.com/in/genesis-esdrilon-jr-198ba31a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge"/>
   </a>
 
- ### 🚀 About Me 
+<h1 align="left"> 🚀 About Me </h1>
  <h3>Passionate about web development and software development</h3>
  
  <p> <img src="https://komarev.com/ghpvc/?username=sliceofbanana&label=Profile%20views&color=0e75b6&style=flat" alt="sliceofbanana" /> </p>
