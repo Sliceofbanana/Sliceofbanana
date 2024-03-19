@@ -1,4 +1,4 @@
-<img src="default1.png" width="400" alt="SNGDNN Logo">
+<img align="center" src="default1.png" width="400" alt="SNGDNN Logo">
 
 <h1 align="center">Hi 👋, I'm Genesis Esdrilon Jr</h1>
 <h3 align="center">Passionate about web development and software development</h3>
