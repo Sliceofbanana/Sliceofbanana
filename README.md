@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&width=435&lines=Hi!+I'm+Genesis+Esdrilon+Jr.)](https://git.io/typing-svg)
 
  <a href="https://www.linkedin.com/in/genesis-esdrilon-jr-198ba31a0/">
