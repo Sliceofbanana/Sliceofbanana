@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="default1.png" width="400" alt="SNGDNN Logo">
 <!--
 **Sliceofbanana/Sliceofbanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
