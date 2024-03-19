@@ -1,7 +1,7 @@
-<img align="center" src="default1.png" width="400" alt="SNGDNN Logo">
+<img src="default1.png" width="400" alt="SNGDNN Logo">
 
-<h1 align="center">Hi 👋, I'm Genesis Esdrilon Jr</h1>
-<h3 align="center">Passionate about web development and software development</h3>
+<h1 align="left">Hi 👋, I'm Genesis Esdrilon Jr</h1>
+<h3 align="left">Passionate about web development and software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sliceofbanana&label=Profile%20views&color=0e75b6&style=flat" alt="sliceofbanana" /> </p>
 
