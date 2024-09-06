@@ -10,13 +10,11 @@
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge"/>
   </a>
 </div>
+<p> <img src="https://komarev.com/ghpvc/?username=sliceofbanana&label=Profile%20views&color=0e75b6&style=flat" alt="sliceofbanana" /> </p>
 <div align="center">
   
 <h1 align="left">🚀 About Me</h1>
  <h3>Passionate about web development and software development</h3>
- 
- <p> <img src="https://komarev.com/ghpvc/?username=sliceofbanana&label=Profile%20views&color=0e75b6&style=flat" alt="sliceofbanana" /> </p>
- 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sliceofbanana&show_icons=true&locale=en" alt="sliceofbanana" /></p>
 
 </div>
