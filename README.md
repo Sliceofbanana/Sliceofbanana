@@ -14,6 +14,15 @@
 
 <div align="center">
 <h1 align="left">🚀 About Me</h1>
- <h3>Passionate about web development and software development</h3>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sliceofbanana" alt="sliceofbanana" /></p>
-</div>
+<h3>Passionate about web development and software development</h3>
+<p>
+  &nbsp;<img align="center" id="github-stats" src="https://github-readme-stats.vercel.app/api?username=sliceofbanana" alt="sliceofbanana" />
+</p>
+
+<script>
+  function refreshGitHubStats() {
+    const img = document.getElementById('github-stats');
+    img.src = 'https://github-readme-stats.vercel.app/api?username=sliceofbanana&' + new Date().getTime();
+  }
+  setInterval(refreshGitHubStats, 1800000);
+</script>
