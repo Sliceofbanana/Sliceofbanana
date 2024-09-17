@@ -14,7 +14,7 @@
 
 <div align="center">
 <h1 align="left">🚀 About Me</h1>
- <h3>Passionate about web development and software development</h3>
+ <h3>A graduagte of Bachelor of Science in Computer Engineering that is passionate about web development and software development</h3>
     <a href="https://github.com/sliceofbanana/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sliceofbanana&show_icons=true" alt="sliceofbanana's GitHub stats" />
   </a>
