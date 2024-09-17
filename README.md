@@ -13,7 +13,11 @@
 </div>
 
 <div align="center">
-# 🚀 About Me
-### Passionate about web development and software development
+<h1 align="left">🚀 About Me</h1>
+ <h3>Passionate about web development and software development</h3>
+</div>
+  
+[![sliceofbanana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliceofbanana&show_icons=true)](https://github.com/sliceofbanana/github-readme-stats)
 
-![sliceofbanana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliceofbanana&show_icons=true)
+
+
