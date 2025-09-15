@@ -6,9 +6,6 @@
  <a href="https://www.linkedin.com/in/genesis-esdrilon-jr-198ba31a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="sliceofbanana02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Badge"/>
-  </a>
   <p> <img src="https://komarev.com/ghpvc/?username=sliceofbanana&label=Profile%20views&color=0e75b6&style=flat" alt="sliceofbanana" /> </p>
 </div>
 
