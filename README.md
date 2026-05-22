@@ -23,7 +23,7 @@ Passionate about building scalable systems, modern websites, and impactful digit
 # 🚀 About Me
 
 ```yaml
-Name: Genesis Esdrilon Jr
+Name: Genesis Jr
 Role:
   - Web Developer
   - System Developer
@@ -55,7 +55,7 @@ Location:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,laravel,nodejs,php,tailwind,mysql,firebase,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,vite,laravel,nodejs,php,tailwind,mysql,firebase,git,github,figma,vscode" />
 
 </div>
 
