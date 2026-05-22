@@ -11,7 +11,7 @@
 
 <div align="center">
 <h1 align="left">🚀 About Me</h1>
- <h3>A Bachelor of Science in Computer Engineering graduate, passionate about web development and software development.</h3>
+ <h3>A Bachelor of Science in Computer Engineering graduate, Web Developer, Tech Manager, and System Developer passionate about building innovative digital solutions. Founder of Project SNGDNN (Coming Soon).</h3>
     <a href="https://github.com/sliceofbanana/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sliceofbanana&show_icons=true" alt="sliceofbanana's GitHub stats" />
   </a>
