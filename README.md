@@ -1,9 +1,4 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Genesis+Esdrilon+Jr;Web+Developer+%7C+System+Developer;Tech+Manager+%7C+Founder+of+Project+SNGDNN;Building+Modern+Digital+Experiences"
-    alt="Typing SVG" 
-  />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+how+are+you?;I'm+Genesis+Jr;I+do+website+for+a+living!&font=Fira%20Code&center=true&width=380&height=120&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"> </p>
 
 <h3 align="center">
 Passionate about building scalable systems, modern websites, and impactful digital solutions.
@@ -60,7 +55,7 @@ Location:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,tailwind,mysql,firebase,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,laravel,nodejs,php,tailwind,mysql,firebase,git,github,figma,vscode" />
 
 </div>
 
@@ -110,7 +105,7 @@ Location:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,windows,vercel,cloudflare,npm,yarn,postman,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=windows,vercel,cloudflare,cloudinary,npm,yarn,postman,photoshop,illustrator" />
 
 </div>
 
